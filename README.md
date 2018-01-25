@@ -9,4 +9,4 @@ In many sci fi movies released about 10 or 15 years ago, people imagined they wo
 <br/><br/>
  
 
-UCI repository provides hand gesture data: "Gesture Phase Segmentation Data Set". It is open source data and you can download from https://archive.ics.uci.edu/ml/datasets/gesture+phase+segmentation .
+UCI repository provides hand gesture data: "Gesture Phase Segmentation Data Set". It is open source data and you can download from https://archive.ics.uci.edu/ml/datasets/gesture+phase+segmentation. The details of data are explained in their pages, so I will not explain here and I only used their processed data (excluded raw data)
